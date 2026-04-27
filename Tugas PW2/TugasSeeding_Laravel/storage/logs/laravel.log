@@ -1,0 +1,411 @@
+[2026-04-27 08:04:47] production.ERROR: The C:\xampp\htdocs\Tugas-PW2\Tugas PW2\TugasSeeding_Laravel\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\xampp\\htdocs\\Tugas-PW2\\Tugas PW2\\TugasSeeding_Laravel\\bootstrap\\cache directory must be present and writable. at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:179)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(132): Illuminate/Foundation/PackageManifest->write(Array)
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(108): Illuminate/Foundation/PackageManifest->build()
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(90): Illuminate/Foundation/PackageManifest->getManifest()
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(79): Illuminate/Foundation/PackageManifest->config('aliases')
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate/Foundation/PackageManifest->aliases()
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(342): Illuminate/Foundation/Bootstrap/RegisterFacades->bootstrap(Object(Illuminate/Foundation/Application))
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(494): Illuminate/Foundation/Application->bootstrapWith(Array)
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Illuminate/Foundation/Console/Kernel->bootstrap()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#10 {main}
+"} 
+[2026-04-27 08:05:49] production.ERROR: The C:\xampp\htdocs\Tugas-PW2\Tugas PW2\TugasSeeding_Laravel\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\xampp\\htdocs\\Tugas-PW2\\Tugas PW2\\TugasSeeding_Laravel\\bootstrap\\cache directory must be present and writable. at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:179)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(132): Illuminate/Foundation/PackageManifest->write(Array)
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(108): Illuminate/Foundation/PackageManifest->build()
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(90): Illuminate/Foundation/PackageManifest->getManifest()
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(79): Illuminate/Foundation/PackageManifest->config('aliases')
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate/Foundation/PackageManifest->aliases()
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(342): Illuminate/Foundation/Bootstrap/RegisterFacades->bootstrap(Object(Illuminate/Foundation/Application))
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(494): Illuminate/Foundation/Application->bootstrapWith(Array)
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Illuminate/Foundation/Console/Kernel->bootstrap()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#10 {main}
+"} 
+[2026-04-27 08:07:23] production.ERROR: The C:\xampp\htdocs\Tugas-PW2\Tugas PW2\TugasSeeding_Laravel\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\xampp\\htdocs\\Tugas-PW2\\Tugas PW2\\TugasSeeding_Laravel\\bootstrap\\cache directory must be present and writable. at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:179)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(132): Illuminate/Foundation/PackageManifest->write(Array)
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(108): Illuminate/Foundation/PackageManifest->build()
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(90): Illuminate/Foundation/PackageManifest->getManifest()
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(79): Illuminate/Foundation/PackageManifest->config('aliases')
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate/Foundation/PackageManifest->aliases()
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(342): Illuminate/Foundation/Bootstrap/RegisterFacades->bootstrap(Object(Illuminate/Foundation/Application))
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(494): Illuminate/Foundation/Application->bootstrapWith(Array)
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Illuminate/Foundation/Console/Kernel->bootstrap()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#10 {main}
+"} 
+[2026-04-27 08:08:32] production.ERROR: The C:\xampp\htdocs\Tugas-PW2\Tugas PW2\TugasSeeding_Laravel\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\xampp\\htdocs\\Tugas-PW2\\Tugas PW2\\TugasSeeding_Laravel\\bootstrap\\cache directory must be present and writable. at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:179)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(132): Illuminate/Foundation/PackageManifest->write(Array)
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(108): Illuminate/Foundation/PackageManifest->build()
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(90): Illuminate/Foundation/PackageManifest->getManifest()
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(79): Illuminate/Foundation/PackageManifest->config('aliases')
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate/Foundation/PackageManifest->aliases()
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(342): Illuminate/Foundation/Bootstrap/RegisterFacades->bootstrap(Object(Illuminate/Foundation/Application))
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(494): Illuminate/Foundation/Application->bootstrapWith(Array)
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Illuminate/Foundation/Console/Kernel->bootstrap()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#10 {main}
+"} 
+[2026-04-27 08:10:57] production.ERROR: Database file at path [C:\xampp\htdocs\Tugas-PW2\Tugas PW2\TugasSeeding_Laravel\database\database.sqlite] does not exist. Ensure this is an absolute path to the database. (Connection: sqlite, Database: C:\xampp\htdocs\Tugas-PW2\Tugas PW2\TugasSeeding_Laravel\database\database.sqlite, SQL: delete from "cache") {"exception":"[object] (Illuminate\\Database\\QueryException(code: 0): Database file at path [C:\\xampp\\htdocs\\Tugas-PW2\\Tugas PW2\\TugasSeeding_Laravel\\database\\database.sqlite] does not exist. Ensure this is an absolute path to the database. (Connection: sqlite, Database: C:\\xampp\\htdocs\\Tugas-PW2\\Tugas PW2\\TugasSeeding_Laravel\\database\\database.sqlite, SQL: delete from \"cache\") at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php:838)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(794): Illuminate/Database/Connection->runQueryCallback('delete from \"ca...', Array, Object(Closure))
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(597): Illuminate/Database/Connection->run('delete from \"ca...', Array, Object(Closure))
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(561): Illuminate/Database/Connection->affectingStatement('delete from \"ca...', Array)
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(4426): Illuminate/Database/Connection->delete('delete from \"ca...', Array)
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php(433): Illuminate/Database/Query/Builder->delete()
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Repository.php(979): Illuminate/Cache/DatabaseStore->flush()
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php(68): Illuminate/Cache/Repository->__call('flush', Array)
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate/Cache/Console/ClearCommand->handle()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate/Container/BoundMethod::Illuminate/Container/{closure}()
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate/Container/Util::unwrapIfClosure(Object(Closure))
+#10 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate/Container/BoundMethod::callBoundMethod(Object(Illuminate/Foundation/Application), Array, Object(Closure))
+#11 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate/Container/BoundMethod::call(Object(Illuminate/Foundation/Application), Array, Array, NULL)
+#12 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate/Container/Container->call(Array)
+#13 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Command/Command.php(341): Illuminate/Console/Command->execute(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#14 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony/Component/Console/Command/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#15 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(1117): Illuminate/Console/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#16 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(356): Symfony/Component/Console/Application->doRunCommand(Object(Illuminate/Cache/Console/ClearCommand), Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#17 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#18 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#19 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#20 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#21 {main}
+
+[previous exception] [object] (Illuminate\\Database\\SQLiteDatabaseDoesNotExistException(code: 0): Database file at path [C:\\xampp\\htdocs\\Tugas-PW2\\Tugas PW2\\TugasSeeding_Laravel\\database\\database.sqlite] does not exist. Ensure this is an absolute path to the database. at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/SQLiteConnector.php:60)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/SQLiteConnector.php(19): Illuminate/Database/Connectors/SQLiteConnector->parseDatabasePath(false)
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(225): Illuminate/Database/Connectors/SQLiteConnector->connect(Array)
+#2 [internal function]: Illuminate/Database/Connectors/ConnectionFactory->Illuminate/Database/Connectors/{closure}()
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(1257): call_user_func(Object(Closure))
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(605): Illuminate/Database/Connection->getPdo()
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(827): Illuminate/Database/Connection->Illuminate/Database/{closure}('delete from \"ca...', Array)
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(794): Illuminate/Database/Connection->runQueryCallback('delete from \"ca...', Array, Object(Closure))
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(597): Illuminate/Database/Connection->run('delete from \"ca...', Array, Object(Closure))
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(561): Illuminate/Database/Connection->affectingStatement('delete from \"ca...', Array)
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(4426): Illuminate/Database/Connection->delete('delete from \"ca...', Array)
+#10 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php(433): Illuminate/Database/Query/Builder->delete()
+#11 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Repository.php(979): Illuminate/Cache/DatabaseStore->flush()
+#12 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php(68): Illuminate/Cache/Repository->__call('flush', Array)
+#13 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate/Cache/Console/ClearCommand->handle()
+#14 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate/Container/BoundMethod::Illuminate/Container/{closure}()
+#15 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate/Container/Util::unwrapIfClosure(Object(Closure))
+#16 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate/Container/BoundMethod::callBoundMethod(Object(Illuminate/Foundation/Application), Array, Object(Closure))
+#17 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate/Container/BoundMethod::call(Object(Illuminate/Foundation/Application), Array, Array, NULL)
+#18 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate/Container/Container->call(Array)
+#19 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Command/Command.php(341): Illuminate/Console/Command->execute(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#20 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony/Component/Console/Command/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#21 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(1117): Illuminate/Console/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#22 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(356): Symfony/Component/Console/Application->doRunCommand(Object(Illuminate/Cache/Console/ClearCommand), Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#23 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#24 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#25 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#26 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#27 {main}
+"} 
+[2026-04-27 08:12:14] production.ERROR: Command "make:key" is not defined.
+
+Did you mean one of these?
+    make:cache-table
+    make:cast
+    make:channel
+    make:class
+    make:command
+    make:component
+    make:config
+    make:controller
+    make:enum
+    make:event
+    make:exception
+    make:factory
+    make:interface
+    make:job
+    make:job-middleware
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:notifications-table
+    make:observer
+    make:policy
+    make:provider
+    make:queue-batches-table
+    make:queue-failed-table
+    make:queue-table
+    make:request
+    make:resource
+    make:rule
+    make:scope
+    make:seeder
+    make:session-table
+    make:test
+    make:trait
+    make:view {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:key\" is not defined.
+
+Did you mean one of these?
+    make:cache-table
+    make:cast
+    make:channel
+    make:class
+    make:command
+    make:component
+    make:config
+    make:controller
+    make:enum
+    make:event
+    make:exception
+    make:factory
+    make:interface
+    make:job
+    make:job-middleware
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:notifications-table
+    make:observer
+    make:policy
+    make:provider
+    make:queue-batches-table
+    make:queue-failed-table
+    make:queue-table
+    make:request
+    make:resource
+    make:rule
+    make:scope
+    make:seeder
+    make:session-table
+    make:test
+    make:trait
+    make:view at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php:759)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(298): Symfony/Component/Console/Application->find('make:key')
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#5 {main}
+"} 
+[2026-04-27 08:47:19] local.ERROR: Database file at path [mms_db] does not exist. Ensure this is an absolute path to the database. (Connection: sqlite, Database: mms_db, SQL: delete from "cache") {"exception":"[object] (Illuminate\\Database\\QueryException(code: 0): Database file at path [mms_db] does not exist. Ensure this is an absolute path to the database. (Connection: sqlite, Database: mms_db, SQL: delete from \"cache\") at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php:838)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(794): Illuminate/Database/Connection->runQueryCallback('delete from \"ca...', Array, Object(Closure))
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(597): Illuminate/Database/Connection->run('delete from \"ca...', Array, Object(Closure))
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(561): Illuminate/Database/Connection->affectingStatement('delete from \"ca...', Array)
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(4426): Illuminate/Database/Connection->delete('delete from \"ca...', Array)
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php(433): Illuminate/Database/Query/Builder->delete()
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Repository.php(979): Illuminate/Cache/DatabaseStore->flush()
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php(68): Illuminate/Cache/Repository->__call('flush', Array)
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate/Cache/Console/ClearCommand->handle()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate/Container/BoundMethod::Illuminate/Container/{closure}()
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate/Container/Util::unwrapIfClosure(Object(Closure))
+#10 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate/Container/BoundMethod::callBoundMethod(Object(Illuminate/Foundation/Application), Array, Object(Closure))
+#11 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate/Container/BoundMethod::call(Object(Illuminate/Foundation/Application), Array, Array, NULL)
+#12 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate/Container/Container->call(Array)
+#13 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Command/Command.php(341): Illuminate/Console/Command->execute(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#14 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony/Component/Console/Command/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#15 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(1117): Illuminate/Console/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#16 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(356): Symfony/Component/Console/Application->doRunCommand(Object(Illuminate/Cache/Console/ClearCommand), Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#17 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#18 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#19 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#20 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#21 {main}
+
+[previous exception] [object] (Illuminate\\Database\\SQLiteDatabaseDoesNotExistException(code: 0): Database file at path [mms_db] does not exist. Ensure this is an absolute path to the database. at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/SQLiteConnector.php:60)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/SQLiteConnector.php(19): Illuminate/Database/Connectors/SQLiteConnector->parseDatabasePath(false)
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(225): Illuminate/Database/Connectors/SQLiteConnector->connect(Array)
+#2 [internal function]: Illuminate/Database/Connectors/ConnectionFactory->Illuminate/Database/Connectors/{closure}()
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(1257): call_user_func(Object(Closure))
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(605): Illuminate/Database/Connection->getPdo()
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(827): Illuminate/Database/Connection->Illuminate/Database/{closure}('delete from \"ca...', Array)
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(794): Illuminate/Database/Connection->runQueryCallback('delete from \"ca...', Array, Object(Closure))
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(597): Illuminate/Database/Connection->run('delete from \"ca...', Array, Object(Closure))
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(561): Illuminate/Database/Connection->affectingStatement('delete from \"ca...', Array)
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(4426): Illuminate/Database/Connection->delete('delete from \"ca...', Array)
+#10 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php(433): Illuminate/Database/Query/Builder->delete()
+#11 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Repository.php(979): Illuminate/Cache/DatabaseStore->flush()
+#12 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php(68): Illuminate/Cache/Repository->__call('flush', Array)
+#13 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate/Cache/Console/ClearCommand->handle()
+#14 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate/Container/BoundMethod::Illuminate/Container/{closure}()
+#15 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate/Container/Util::unwrapIfClosure(Object(Closure))
+#16 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate/Container/BoundMethod::callBoundMethod(Object(Illuminate/Foundation/Application), Array, Object(Closure))
+#17 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate/Container/BoundMethod::call(Object(Illuminate/Foundation/Application), Array, Array, NULL)
+#18 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate/Container/Container->call(Array)
+#19 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Command/Command.php(341): Illuminate/Console/Command->execute(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#20 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony/Component/Console/Command/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#21 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(1117): Illuminate/Console/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#22 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(356): Symfony/Component/Console/Application->doRunCommand(Object(Illuminate/Cache/Console/ClearCommand), Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#23 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#24 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#25 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#26 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#27 {main}
+"} 
+[2026-04-27 08:48:52] local.ERROR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mms_db.cache' doesn't exist (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: mms_db, SQL: delete from `cache`) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 42S02): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mms_db.cache' doesn't exist (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: mms_db, SQL: delete from `cache`) at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php:838)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(794): Illuminate/Database/Connection->runQueryCallback('delete from `ca...', Array, Object(Closure))
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(597): Illuminate/Database/Connection->run('delete from `ca...', Array, Object(Closure))
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(561): Illuminate/Database/Connection->affectingStatement('delete from `ca...', Array)
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(4426): Illuminate/Database/Connection->delete('delete from `ca...', Array)
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php(433): Illuminate/Database/Query/Builder->delete()
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Repository.php(979): Illuminate/Cache/DatabaseStore->flush()
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php(68): Illuminate/Cache/Repository->__call('flush', Array)
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate/Cache/Console/ClearCommand->handle()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate/Container/BoundMethod::Illuminate/Container/{closure}()
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate/Container/Util::unwrapIfClosure(Object(Closure))
+#10 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate/Container/BoundMethod::callBoundMethod(Object(Illuminate/Foundation/Application), Array, Object(Closure))
+#11 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate/Container/BoundMethod::call(Object(Illuminate/Foundation/Application), Array, Array, NULL)
+#12 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate/Container/Container->call(Array)
+#13 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Command/Command.php(341): Illuminate/Console/Command->execute(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#14 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony/Component/Console/Command/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#15 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(1117): Illuminate/Console/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#16 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(356): Symfony/Component/Console/Application->doRunCommand(Object(Illuminate/Cache/Console/ClearCommand), Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#17 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#18 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#19 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#20 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#21 {main}
+
+[previous exception] [object] (PDOException(code: 42S02): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mms_db.cache' doesn't exist at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php:605)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(605): PDO->prepare('delete from `ca...')
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(827): Illuminate/Database/Connection->Illuminate/Database/{closure}('delete from `ca...', Array)
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(794): Illuminate/Database/Connection->runQueryCallback('delete from `ca...', Array, Object(Closure))
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(597): Illuminate/Database/Connection->run('delete from `ca...', Array, Object(Closure))
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(561): Illuminate/Database/Connection->affectingStatement('delete from `ca...', Array)
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(4426): Illuminate/Database/Connection->delete('delete from `ca...', Array)
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php(433): Illuminate/Database/Query/Builder->delete()
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Repository.php(979): Illuminate/Cache/DatabaseStore->flush()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php(68): Illuminate/Cache/Repository->__call('flush', Array)
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate/Cache/Console/ClearCommand->handle()
+#10 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate/Container/BoundMethod::Illuminate/Container/{closure}()
+#11 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate/Container/Util::unwrapIfClosure(Object(Closure))
+#12 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate/Container/BoundMethod::callBoundMethod(Object(Illuminate/Foundation/Application), Array, Object(Closure))
+#13 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate/Container/BoundMethod::call(Object(Illuminate/Foundation/Application), Array, Array, NULL)
+#14 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate/Container/Container->call(Array)
+#15 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Command/Command.php(341): Illuminate/Console/Command->execute(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#16 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony/Component/Console/Command/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#17 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(1117): Illuminate/Console/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#18 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(356): Symfony/Component/Console/Application->doRunCommand(Object(Illuminate/Cache/Console/ClearCommand), Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#19 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#20 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#21 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#22 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#23 {main}
+"} 
+[2026-04-27 08:49:17] local.ERROR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mms_db.cache' doesn't exist (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: mms_db, SQL: delete from `cache`) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 42S02): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mms_db.cache' doesn't exist (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: mms_db, SQL: delete from `cache`) at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php:838)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(794): Illuminate/Database/Connection->runQueryCallback('delete from `ca...', Array, Object(Closure))
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(597): Illuminate/Database/Connection->run('delete from `ca...', Array, Object(Closure))
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(561): Illuminate/Database/Connection->affectingStatement('delete from `ca...', Array)
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(4426): Illuminate/Database/Connection->delete('delete from `ca...', Array)
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php(433): Illuminate/Database/Query/Builder->delete()
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Repository.php(979): Illuminate/Cache/DatabaseStore->flush()
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php(68): Illuminate/Cache/Repository->__call('flush', Array)
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate/Cache/Console/ClearCommand->handle()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate/Container/BoundMethod::Illuminate/Container/{closure}()
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate/Container/Util::unwrapIfClosure(Object(Closure))
+#10 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate/Container/BoundMethod::callBoundMethod(Object(Illuminate/Foundation/Application), Array, Object(Closure))
+#11 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate/Container/BoundMethod::call(Object(Illuminate/Foundation/Application), Array, Array, NULL)
+#12 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate/Container/Container->call(Array)
+#13 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Command/Command.php(341): Illuminate/Console/Command->execute(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#14 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony/Component/Console/Command/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#15 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(1117): Illuminate/Console/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#16 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(356): Symfony/Component/Console/Application->doRunCommand(Object(Illuminate/Cache/Console/ClearCommand), Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#17 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#18 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#19 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#20 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#21 {main}
+
+[previous exception] [object] (PDOException(code: 42S02): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mms_db.cache' doesn't exist at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php:605)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(605): PDO->prepare('delete from `ca...')
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(827): Illuminate/Database/Connection->Illuminate/Database/{closure}('delete from `ca...', Array)
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(794): Illuminate/Database/Connection->runQueryCallback('delete from `ca...', Array, Object(Closure))
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(597): Illuminate/Database/Connection->run('delete from `ca...', Array, Object(Closure))
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(561): Illuminate/Database/Connection->affectingStatement('delete from `ca...', Array)
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(4426): Illuminate/Database/Connection->delete('delete from `ca...', Array)
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php(433): Illuminate/Database/Query/Builder->delete()
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Repository.php(979): Illuminate/Cache/DatabaseStore->flush()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php(68): Illuminate/Cache/Repository->__call('flush', Array)
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate/Cache/Console/ClearCommand->handle()
+#10 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate/Container/BoundMethod::Illuminate/Container/{closure}()
+#11 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate/Container/Util::unwrapIfClosure(Object(Closure))
+#12 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate/Container/BoundMethod::callBoundMethod(Object(Illuminate/Foundation/Application), Array, Object(Closure))
+#13 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate/Container/BoundMethod::call(Object(Illuminate/Foundation/Application), Array, Array, NULL)
+#14 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate/Container/Container->call(Array)
+#15 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Command/Command.php(341): Illuminate/Console/Command->execute(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#16 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony/Component/Console/Command/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#17 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(1117): Illuminate/Console/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#18 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(356): Symfony/Component/Console/Application->doRunCommand(Object(Illuminate/Cache/Console/ClearCommand), Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#19 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#20 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#21 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#22 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#23 {main}
+"} 
+[2026-04-27 08:49:25] local.ERROR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mms_db.cache' doesn't exist (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: mms_db, SQL: delete from `cache`) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 42S02): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mms_db.cache' doesn't exist (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: mms_db, SQL: delete from `cache`) at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php:838)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(794): Illuminate/Database/Connection->runQueryCallback('delete from `ca...', Array, Object(Closure))
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(597): Illuminate/Database/Connection->run('delete from `ca...', Array, Object(Closure))
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(561): Illuminate/Database/Connection->affectingStatement('delete from `ca...', Array)
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(4426): Illuminate/Database/Connection->delete('delete from `ca...', Array)
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php(433): Illuminate/Database/Query/Builder->delete()
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Repository.php(979): Illuminate/Cache/DatabaseStore->flush()
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php(68): Illuminate/Cache/Repository->__call('flush', Array)
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate/Cache/Console/ClearCommand->handle()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate/Container/BoundMethod::Illuminate/Container/{closure}()
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate/Container/Util::unwrapIfClosure(Object(Closure))
+#10 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate/Container/BoundMethod::callBoundMethod(Object(Illuminate/Foundation/Application), Array, Object(Closure))
+#11 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate/Container/BoundMethod::call(Object(Illuminate/Foundation/Application), Array, Array, NULL)
+#12 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate/Container/Container->call(Array)
+#13 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Command/Command.php(341): Illuminate/Console/Command->execute(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#14 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony/Component/Console/Command/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#15 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(1117): Illuminate/Console/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#16 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(356): Symfony/Component/Console/Application->doRunCommand(Object(Illuminate/Cache/Console/ClearCommand), Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#17 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#18 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#19 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#20 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#21 {main}
+
+[previous exception] [object] (PDOException(code: 42S02): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mms_db.cache' doesn't exist at C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php:605)
+[stacktrace]
+#0 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(605): PDO->prepare('delete from `ca...')
+#1 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(827): Illuminate/Database/Connection->Illuminate/Database/{closure}('delete from `ca...', Array)
+#2 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(794): Illuminate/Database/Connection->runQueryCallback('delete from `ca...', Array, Object(Closure))
+#3 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(597): Illuminate/Database/Connection->run('delete from `ca...', Array, Object(Closure))
+#4 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php(561): Illuminate/Database/Connection->affectingStatement('delete from `ca...', Array)
+#5 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(4426): Illuminate/Database/Connection->delete('delete from `ca...', Array)
+#6 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php(433): Illuminate/Database/Query/Builder->delete()
+#7 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Repository.php(979): Illuminate/Cache/DatabaseStore->flush()
+#8 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php(68): Illuminate/Cache/Repository->__call('flush', Array)
+#9 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate/Cache/Console/ClearCommand->handle()
+#10 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate/Container/BoundMethod::Illuminate/Container/{closure}()
+#11 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(96): Illuminate/Container/Util::unwrapIfClosure(Object(Closure))
+#12 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate/Container/BoundMethod::callBoundMethod(Object(Illuminate/Foundation/Application), Array, Object(Closure))
+#13 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate/Container/BoundMethod::call(Object(Illuminate/Foundation/Application), Array, Array, NULL)
+#14 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate/Container/Container->call(Array)
+#15 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Command/Command.php(341): Illuminate/Console/Command->execute(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#16 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony/Component/Console/Command/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Illuminate/Console/OutputStyle))
+#17 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(1117): Illuminate/Console/Command->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#18 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(356): Symfony/Component/Console/Application->doRunCommand(Object(Illuminate/Cache/Console/ClearCommand), Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#19 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/symfony/console/Application.php(195): Symfony/Component/Console/Application->doRun(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#20 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(198): Symfony/Component/Console/Application->run(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#21 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate/Foundation/Console/Kernel->handle(Object(Symfony/Component/Console/Input/ArgvInput), Object(Symfony/Component/Console/Output/ConsoleOutput))
+#22 C:/xampp/htdocs/Tugas-PW2/Tugas PW2/TugasSeeding_Laravel/artisan(16): Illuminate/Foundation/Application->handleCommand(Object(Symfony/Component/Console/Input/ArgvInput))
+#23 {main}
+"} 
